@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Frontend Developer from India.
 
-I’m working as a Software developer and contributing to frontend for building web applications.
+I’m working as a Software developer and contributing frontend for building web applications.
 
 Exploring the world to get new ideas for converting into projects.
 
