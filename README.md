@@ -1,34 +1,49 @@
-# 👋 Hi, I'm Sravanthi Thakur
-
-🎓 **Electronics and Communication Engineering Graduate** from JNTU, with hands-on experience in **Fullstack Web Development**, **Machine Learning**, and **Real-Time Systems**.
-
-## 💻 Technical Skills
-
-- **Languages:** JavaScript, Python, Java, HTML, CSS, SQL  
-- **Frameworks & Tools:** React.js, Node.js, Flask, Git, VS Code  
-- **Databases:** SQL  
-- **Other Tools:** Power BI, Advanced Excel
-
-## 💼 Work Experience
-
-### 🔧 Fullstack Web Development Intern — Unified Mentor (2025–Present)
-- Built fullstack applications under mentorship of the core dev team.
-- Gained hands-on experience across frontend and backend.
-
-### 🛫 6E Allocator — InterGlobe Aviation (IndiGo) (2022–2025)
-- Maintained airport systems and optimized UI/UX.
-- Focused on scalable, SEO-friendly web applications.
-
-## 📜 Certifications
-- Microsoft Certified: Azure AI Services Fundamentals
-- Fullstack Web Development, Mobile Robotics, Aviation Ops, and DFT
-
-## 🏆 Achievements
-- **Best Employee of the Month** – May 2024 (IndiGo Airport Operations)
+<h1 align="center">Hi 👋, I'm Sravanthi Thakur</h1>
+<h3 align="center">Fullstack Developer | ML Enthusiast | Problem Solver</h3>
 
 ---
 
-📫 **Get in touch:**  
-📧 sravanthithakur6@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sravanthi-thakur)
+### 🌟 About Me
+- 🎓 Electronics & Communication Engineering Graduate from **JNTU**
+- 💻 Passionate about building scalable fullstack apps and intelligent ML models
+- ✈️ Former airport systems analyst at **IndiGo**, now diving into tech full-time
+- 🌱 Currently enhancing my skills in **AI**, **Web Dev**, and **Cloud Services**
 
+---
+
+### 🔧 Tech Stack
+| Category        | Tools/Skills                              |
+|----------------|--------------------------------------------|
+| Languages       | JavaScript, Python, Java, HTML, CSS, SQL  |
+| Frameworks      | React.js, Node.js, Flask                  |
+| Dev Tools       | Git, VS Code                              |
+| Data & BI       | Power BI, Advanced Excel                  |
+| ML Tools        | TensorFlow, Scikit-learn, Pandas          |
+
+---
+
+### 💼 Experience Highlights
+- 🧠 **Fullstack Web Intern @ Unified Mentor**  
+  Built and deployed responsive web apps from frontend to backend
+
+- 🛫 **6E Allocator @ IndiGo Airlines**  
+  Managed mission-critical airport apps and improved SEO/UX
+
+- 🧪 **DFT Intern @ TSilicon**  
+  Designed ATPG patterns and verified RTL connectivity
+
+---
+
+### 🏆 Achievements & Certifications
+- ⭐ Best Employee of the Month – May 2024 (IndiGo)
+- 🧠 Microsoft Certified: Azure AI Services Fundamentals
+- 🧾 Certified in Fullstack Web Dev, Robotics, Aviation Ops
+
+---
+
+### 📬 Let's Connect
+📧 Email: sravanthithakur6@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sravanthi-thakur)  
+🐙 [GitHub](https://github.com/thakusravanthi369)
+
+---
